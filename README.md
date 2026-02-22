@@ -1,0 +1,1 @@
+# HAC-tets-TGARCH-and-FPCA-for-high-frequency-data
